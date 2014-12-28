@@ -33,7 +33,7 @@ value of the selected time zone.
 Example
 =======
 
-.. code-block:: lasso+html
+.. code-block:: html+lasso
 
     <div>
     <label>Timezone From</label>
