@@ -10,7 +10,7 @@ Description
 ``[tz_select]`` returns an HTML select menu of all known time zones, grouped
 into US common, continents, regions, UTC, and manual offsets.
 
-It is required by the demos for `tz_convert
+It is used in the demos for `tz_convert
 <http://www.stevepiercy.com/lasso/tz_convert_demo/>`_ and `countdown
 <http://www.stevepiercy.com/lasso/countdown_demo/>`_.
 
@@ -46,11 +46,11 @@ Installation and Requirements
 =============================
 
 The repository contains the tag ``[tz_select]`` in a file named
-``tz_select.inc`` and a directory ``tz_select_demo`` containing the demo.
+``tz_select.lasso`` and a directory ``tz_select_demo`` containing the demo.
 In this directory there is a web page named ``index.lasso`` containing the
 ``tz_select`` tag.
 
-Install and configure the following requirements.
+There are no additional requirements.
 
 More Information
 ================
