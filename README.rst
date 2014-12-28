@@ -37,7 +37,7 @@ Example
 
     <div>
     <label>Timezone</label>
-    [tz_select(-name='tzin', -selected=action_param('tzin'))]
+    [tz_select(-name='timezone', -selected=action_param('timezone'))]
     </div>
 
 Output is a select HTML menu.
