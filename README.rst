@@ -33,10 +33,10 @@ value of the selected time zone.
 Example
 =======
 
-.. code-block:: html+lasso
+.. code-block:: lasso
 
     <div>
-    <label>Timezone From</label>
+    <label>Timezone</label>
     [tz_select(-name='tzin', -selected=action_param('tzin'))]
     </div>
 
